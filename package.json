@@ -1,6 +1,6 @@
 {
   "name": "@halli77/my-first-npm-package",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "publish to npm using github automation",
   "main": "index.js",
   "scripts": {
